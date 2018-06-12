@@ -1,0 +1,155 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="basioony.palette.Red">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="   #FFEBEE"
+                android:textStyle="bold"
+                android:textColor="#000"
+                android:textSize="20dp"
+                android:background="#FFEBEE"
+                android:gravity="center_vertical"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="   #FFCDD2"
+                android:textStyle="bold"
+                android:textColor="#000"
+                android:textSize="20dp"
+                android:background="#FFCDD2"
+                android:gravity="center_vertical"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="   #EF9A9A"
+                android:textStyle="bold"
+                android:textColor="#000"
+                android:textSize="20dp"
+                android:background="#EF9A9A"
+                android:gravity="center_vertical"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="   #E57373"
+                android:textStyle="bold"
+                android:textColor="#000"
+                android:textSize="20dp"
+                android:background="#F57373"
+                android:gravity="center_vertical"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="   #EF5350"
+                android:textStyle="bold"
+                android:textColor="#fff"
+                android:textSize="20dp"
+                android:background="#EF5350"
+                android:gravity="center_vertical"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="   #F44336"
+                android:textStyle="bold"
+                android:textColor="#fff"
+                android:textSize="20dp"
+                android:background="#F44336"
+                android:gravity="center_vertical"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="   #E53935"
+                android:textStyle="bold"
+                android:textColor="#fff"
+                android:textSize="20dp"
+                android:background="#E53935"
+                android:gravity="center_vertical"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="   #D32F2F"
+                android:textStyle="bold"
+                android:textColor="#fff"
+                android:textSize="20dp"
+                android:background="#D32F2F"
+                android:gravity="center_vertical"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="   #C62828"
+                android:textStyle="bold"
+                android:textColor="#fff"
+                android:textSize="20dp"
+                android:background="#C62828"
+                android:gravity="center_vertical"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="   #B71C1C"
+                android:textStyle="bold"
+                android:textColor="#fff"
+                android:textSize="20dp"
+                android:background="#B71C1C"
+                android:gravity="center_vertical"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="   #FF8A80"
+                android:textStyle="bold"
+                android:textColor="#000"
+                android:textSize="20dp"
+                android:background="#FF8A80"
+                android:gravity="center_vertical"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="   #FF5252"
+                android:textStyle="bold"
+                android:textColor="#fff"
+                android:textSize="20dp"
+                android:background="#FF5252"
+                android:gravity="center_vertical"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="   #FF1944"
+                android:textStyle="bold"
+                android:textColor="#fff"
+                android:textSize="20dp"
+                android:background="#FF1744"
+                android:gravity="center_vertical"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="   #D50000"
+                android:textStyle="bold"
+                android:textColor="#fff"
+                android:textSize="20dp"
+                android:background="#D50000"
+                android:gravity="center_vertical"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="   #EF5350"
+                android:textStyle="bold"
+                android:textColor="#fff"
+                android:textSize="20dp"
+                android:background="#EF5350"
+                android:gravity="center_vertical"/>
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

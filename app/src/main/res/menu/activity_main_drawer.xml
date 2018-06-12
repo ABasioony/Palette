@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/red"
+            android:icon="@drawable/ic_painter_palette"
+            android:title="Red"
+            />
+        <item
+            android:id="@+id/pink"
+            android:icon="@drawable/ic_painter_palette"
+            android:title="Pink"
+            />
+        <item
+            android:id="@+id/purple"
+            android:icon="@drawable/ic_painter_palette"
+            android:title="Purple"
+            />
+        <item
+            android:id="@+id/deep_purple"
+            android:icon="@drawable/ic_painter_palette"
+            android:title="Deep Purple"
+            />
+        <item
+            android:id="@+id/indigo"
+            android:icon="@drawable/ic_painter_palette"
+            android:title="Indigo"
+            />
+        <item
+            android:id="@+id/blue"
+            android:icon="@drawable/ic_painter_palette"
+            android:title="Blue"
+            />
+        <item
+            android:id="@+id/light_blue"
+            android:icon="@drawable/ic_painter_palette"
+            android:title="Light Blue"
+            />
+        <item
+            android:id="@+id/cyan"
+            android:icon="@drawable/ic_painter_palette"
+            android:title="Cyan"
+            />
+        <item
+            android:id="@+id/teal"
+            android:icon="@drawable/ic_painter_palette"
+            android:title="Teal"
+            />
+        <item
+            android:id="@+id/green"
+            android:icon="@drawable/ic_painter_palette"
+            android:title="Green"
+            />
+        <item
+            android:id="@+id/light_green"
+            android:icon="@drawable/ic_painter_palette"
+            android:title="Light Green"
+            />
+        <item
+            android:id="@+id/lime"
+            android:icon="@drawable/ic_painter_palette"
+            android:title="Lime"
+            />
+        <item
+            android:id="@+id/yellow"
+            android:icon="@drawable/ic_painter_palette"
+            android:title="Yellow"
+            />
+        <item
+            android:id="@+id/amber"
+            android:icon="@drawable/ic_painter_palette"
+            android:title="Amber"
+            />
+        <item
+            android:id="@+id/orange"
+            android:icon="@drawable/ic_painter_palette"
+            android:title="Orange"
+            />
+        <item
+            android:id="@+id/deep_orange"
+            android:icon="@drawable/ic_painter_palette"
+            android:title="Deep Orange"
+            />
+        <item
+            android:id="@+id/grey"
+            android:icon="@drawable/ic_painter_palette"
+            android:title="Grey"
+            />
+        <item
+            android:id="@+id/blue_grey"
+            android:icon="@drawable/ic_painter_palette"
+            android:title="Blue Grey"
+            />
+
+    </group>
+
+</menu>
