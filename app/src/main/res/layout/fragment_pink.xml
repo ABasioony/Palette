@@ -135,7 +135,7 @@
                 android:text="   #C51162"
                 android:textStyle="bold"
                 android:textColor="#FFF"
-                android:textSize="20dp"
+                android:textSize="20sp"
                 android:background="#C51162"
                 android:gravity="center_vertical"/>
         </LinearLayout>
