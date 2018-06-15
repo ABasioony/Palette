@@ -54,7 +54,6 @@ public class MainActivity extends AppCompatActivity
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
-
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
             return true;
@@ -79,7 +78,14 @@ public class MainActivity extends AppCompatActivity
             android.support.v4.app.FragmentManager FM = getSupportFragmentManager();
             FM.beginTransaction().replace(R.id.fragment, Fragment).commit();
         } else if (id == R.id.pink) {
+            setTitle("Pink");
             pink Fragment = new pink();
+            android.support.v4.app.FragmentManager FM = getSupportFragmentManager();
+            FM.beginTransaction().replace(R.id.fragment, Fragment).commit();
+        }
+        else if(id == R.id.purple){
+            setTitle("Purple");
+            Purple Fragment = new Purple();
             android.support.v4.app.FragmentManager FM = getSupportFragmentManager();
             FM.beginTransaction().replace(R.id.fragment, Fragment).commit();
         }
